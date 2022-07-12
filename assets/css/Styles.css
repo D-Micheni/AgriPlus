@@ -8,6 +8,7 @@ body {
   margin: 100px;
   font-family: Arial, Helvetica, sans-serif;
 }
+
 .header {
   overflow: hidden;
   background-color: #000;
@@ -32,8 +33,6 @@ body {
   margin-right: 450px;
 
 }
-
-
 
 .header a.active {
   background-color: orange;
@@ -97,4 +96,33 @@ container {
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
+}
+.top-right {
+  position: absolute;
+  top: 100px;
+  right: 16px;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+.text-block {
+  width: 800px;
+  height: 150px;
+  display: flex;
+  position: absolute;
+  bottom: 5px;
+  right: 100px;
+  background-color: white;
+  color: black;
+  font-size: 13px
+  ;
+  
+}
+.textbloc{
+  margin-top: 25px;
+  width: 33%;
+  text-align: center;
 }
