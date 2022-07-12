@@ -52,3 +52,17 @@ body {
     float: none;
   }
 }
+
+.background{
+  background-size: cover;
+  background-size: contain;
+  background-size: inline;
+  background-size: 6px;
+  background-size: 40%;
+  background-size: auto;
+  background-image:url("../images/image\ 1\ \(2\).png");
+  background-position: center;
+  background-size: cover;
+  margin-left: 200px;
+  margin-right: 200px;
+  position: absolute;
