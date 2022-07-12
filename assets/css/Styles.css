@@ -164,9 +164,7 @@ container {
   background-color: #f1f1f1;
 }
 * {box-sizing: border-box;}
-.middle-h1 {
-padding-top: 30px;
-}
+
 .review{
   display: flex;
 
