@@ -65,7 +65,7 @@ body {
   background-size: 6px;
   background-size: 40%;
   background-size: auto;
-  background-image:url("../images/image\ 1\ \(2\).png");
+  background-image:url("../css/images/image\ 1\ \(2\).png");
   background-position: center;
   background-size: cover;
   margin-left: 200px;
@@ -77,8 +77,6 @@ container {
   text-align: left;
   color: black;
 }
-
-
 
 .top-left {
   position: absolute;
@@ -119,7 +117,6 @@ container {
   color: black;
   font-size: 13px
   ;
-  
 }
 .textbloc{
   margin-top: 25px;
