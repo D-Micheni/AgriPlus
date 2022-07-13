@@ -97,7 +97,7 @@ container {
 }
 .top-right {
   position: absolute;
-  top: 100px;
+  top: 40px;
   right: 16px;
 }
 
@@ -120,9 +120,18 @@ container {
 }
 .textbloc{
   margin-top: 25px;
-  width: 33%;
+  width: 50%;
   text-align: center;
 }
+.middl{
+  display: flex;
+  padding: 8%;
+}
+.img3 {
+width: 80%;
+}
+  
+
 .hproducts{
   text-align: center;
 }
